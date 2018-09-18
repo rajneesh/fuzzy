@@ -1,0 +1,1 @@
+Fuzzy search service. Use <hostname>/search?word=pro
